@@ -1,0 +1,1 @@
+Decisiones de configuracion: cree el bot en telegram con el mismo nombre de mi asistente en openclaw para ubicarlo mas facil. en cuanto a los problemas encontrados solo me tope con un error de mi parte al solicitar la creacion del google docs ya que no le especifique que debia hacerlo por medio de zapier y el bot me respondio solicitando conectarse a google cloud.
